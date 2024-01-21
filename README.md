@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/c7/06/1f/c7061fe0fd7369a58d8782f3c9b87b82.gif)](https://BlueRosy.io)
+[![MasterHead](pink-tree-resize.gif)](https://BlueRosy.io)
 <h1 align="center">Hi 👋, I'm Yanqing Liu</h1>
 <h3 align="center">A passionate computer science student from China. I recently completed my master's degree in Applied Analytics at Columbia University. Soon, I will embark on a new study journey in Canada for becoming as a proficient Software Engineer.</h3>
 <div align="center">
