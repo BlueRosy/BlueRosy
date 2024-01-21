@@ -27,7 +27,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 <br>
-<img align="right" alt="Coding" width="400" src="coding.gif">
+<img align="right" alt="Coding" width="400" src="coding-edit.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluerosy&label=Profile%20views&color=0e75b6&style=flat" alt="bluerosy" /> </p>
 
