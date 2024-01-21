@@ -1,5 +1,7 @@
 [![MasterHead](pink-tree-resize.gif)](https://BlueRosy.io)
-<h1 align="center">Hi 👋, I'm Yanqing Liu</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=black&lines=Hi+There!+👋;+I'm+Yanqing+Liu!;" />
+</h1>
 <h3 align="center">A passionate computer science student from China. I recently completed my master's degree in Applied Analytics at Columbia University. Soon, I will embark on a new study journey in Canada for becoming as a proficient Software Engineer.</h3>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -64,6 +66,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BlueRosy&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
 
 
