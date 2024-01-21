@@ -27,7 +27,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 <br>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU4MDU2MjQsIm5iZiI6MTcwNTgwNTMyNCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTIxVDAyNDg0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMGNhNWYwZjVjMjI0YjdiYjJlZWJhNjVjMGZjNjc5ZjMyMjMzNjUyZDA0ODAxM2Y1NDE5ZTBiYWRhNDc3OGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Zp0er6BTK8bTP_fsmeKZ4G8EjouCZnNH8psnCzYIn44">
+<img align="right" alt="Coding" width="400" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluerosy&label=Profile%20views&color=0e75b6&style=flat" alt="bluerosy" /> </p>
 
