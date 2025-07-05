@@ -37,7 +37,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluerosy&label=Profile%20views&color=0e75b6&style=flat" alt="bluerosy" /> </p>
 
-- ✊🏻 This semester goal: **internet network, algorithm and coding, interactive design & HCI, research on HCI concerning mental health**
+- ✊🏻 Goal for this semester: **internet network, algorithm and coding, interactive design & HCI, research on HCI concerning mental health**
 
 - 🌱 Finished learning **MIT6: The Missing Semester of Your CS Education**
 
