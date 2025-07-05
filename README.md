@@ -2,7 +2,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=black&lines=Hi+There!+👋;+I'm+Yanqing+Liu!;" />
 </h1>
-<h3 align="center">A passionate computer science student from China. I recently completed my master's degree in Applied Analytics at Columbia University. Soon, I will embark on a new study journey in Canada for becoming as a proficient Software Engineer.</h3>
+<h3 align="center">I am a driven and globally-minded computer science student from China, with a deep passion for leveraging technology to improve human well-being. After earning my first master’s degree in Applied Analytics from Columbia University, I am currently pursuing a second master’s in Information Technology at UNSW Sydney. My research interests lie at the intersection of human-computer interaction, mental health, and digital well-being. Specifically, I am fascinated by how innovative technologies can understand and support people’s inner emotional states, foster healthier daily habits, and enhance overall life satisfaction and productivity.
+
+With a strong foundation in analytics and system design, I am eager to explore how empathetic and intelligent interfaces can transform the way we live, work, and connect. I aspire to contribute meaningful research that not only advances scientific understanding, but also creates tangible, positive impacts on mental health and human flourishing. </h3>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
