@@ -3,6 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=black&lines=Hi+There!+👋;+I'm+Yanqing+Liu!;" />
 </h1>
 <h3 align="center">I am a driven and globally-minded computer science student from China, with a deep passion for leveraging technology to improve human well-being. </h3>
+<p align="center" style="color:pink" color="pink">
+   After earning my first master’s degree in Applied Analytics from Columbia University, I am currently pursuing a second master’s in Information Technology at UNSW Sydney. My research interests lie at the intersection of human-computer interaction, mental health, and digital well-being. Specifically, I am fascinated by how innovative technologies can understand and support people’s inner emotional states, foster healthier daily habits, and enhance overall life satisfaction and productivity.
+    With a strong foundation in analytics and system design, I am eager to explore how empathetic and intelligent interfaces can transform the way we live, work, and connect. I aspire to contribute meaningful research that not only advances scientific understanding, but also creates tangible, positive impacts on mental health and human flourishing.
+</p>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -32,10 +36,7 @@
 <img align="right" alt="Coding" width="400" src="coding-edit.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bluerosy&label=Profile%20views&color=0e75b6&style=flat" alt="bluerosy" /> </p>
-- ![image](https://github.com/user-attachments/assets/b04aab9e-cc39-485b-9ab2-253546ffa267)
-After earning my first master’s degree in Applied Analytics from Columbia University, I am currently pursuing a second master’s in Information Technology at UNSW Sydney. 
-- My research interests lie at the intersection of human-computer interaction, mental health, and digital well-being. Specifically, I am fascinated by how innovative technologies can understand and support people’s inner emotional states, foster healthier daily habits, and enhance overall life satisfaction and productivity.
-- With a strong foundation in analytics and system design, I am eager to explore how empathetic and intelligent interfaces can transform the way we live, work, and connect. I aspire to contribute meaningful research that not only advances scientific understanding, but also creates tangible, positive impacts on mental health and human flourishing.
+
 - 🌱 I’m currently learning **MIT6: The Missing Semester of Your CS Education**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BlueRosy/Meal-Right](https://github.com/BlueRosy/Meal-Right)
