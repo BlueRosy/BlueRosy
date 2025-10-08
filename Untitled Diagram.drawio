@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="4580.5" dy="2113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3166.5" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -313,17 +313,17 @@
         <mxCell id="bBaxxTamTcXbbt5jnj0J-56" value="1.1.1 Project Charter" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-230" y="600" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bBaxxTamTcXbbt5jnj0J-57" value="1.1.2 Project Management Plan &#xa;(including Scope, &#xa;Stakeholder, &#xa;Schedule, Budget, &#xa;Risk, &#xa;Communication, &#xa;Human Resources)" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-237.5" y="700" width="215" height="140" as="geometry" />
+        <mxCell id="bBaxxTamTcXbbt5jnj0J-57" value="1.1.2 Project Management Plan &#xa;(including Scope, Stakeholder, &#xa;Schedule, Budget, Risk, &#xa;Communication, &#xa;Human Resources)" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-233.75" y="700" width="207.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bBaxxTamTcXbbt5jnj0J-58" value="1.1.3 Progress Reports &amp;&#xa; Meeting Minutes" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="890" width="200" height="60" as="geometry" />
+          <mxGeometry x="-230" y="860" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBaxxTamTcXbbt5jnj0J-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#23445D;" edge="1" parent="1" source="bBaxxTamTcXbbt5jnj0J-59" target="bBaxxTamTcXbbt5jnj0J-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bBaxxTamTcXbbt5jnj0J-59" value="1.1.4 Change&#xa; Control Documents" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="1000" width="200" height="60" as="geometry" />
+          <mxGeometry x="-230" y="960" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBaxxTamTcXbbt5jnj0J-60" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBaxxTamTcXbbt5jnj0J-55" target="bBaxxTamTcXbbt5jnj0J-56">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
@@ -353,7 +353,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bBaxxTamTcXbbt5jnj0J-64" value="1.1.5 Project Closure Report &#xa;&amp; Lessons Learned" style="rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="1110" width="200" height="60" as="geometry" />
+          <mxGeometry x="-230" y="1060" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
